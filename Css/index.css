@@ -1,0 +1,16 @@
+html{
+    margin: 20px;
+    background-color: rgb(105, 105, 105);
+}
+
+#titulo{
+    text-align: center;
+    color: rgb(189, 144, 33);
+    font-family:fantasy
+}
+
+.title-item{
+    font-weight: bold;
+    list-style: none;
+    background-color: #EB5A00;
+}

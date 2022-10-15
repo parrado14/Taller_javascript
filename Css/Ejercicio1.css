@@ -1,0 +1,64 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: linear-gradient( to bottom right,
+    rgb(252, 248, 248),
+    rgb(255, 255, 255));
+    height: 700px;
+}
+
+.enunciado{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.4rem;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 40px;
+    font-weight: 600;
+    padding-bottom: 60px;
+    color: rgb(0, 0, 0);
+}
+
+.text-center{
+    align-items: center;
+    padding-left: 500px;   
+}
+
+.card-body{
+    background: linear-gradient( to bottom right,
+        rgb(8, 8, 8),
+        rgb(0, 0, 0));
+        width: 16rem;
+        height: 20rem;
+        border-radius: 5px;
+}
+.card-title{
+    color: rgb(255, 255, 255);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size: 1.3rem;
+    padding:30px ;
+    
+}
+
+.card-text{
+    color: rgb(255, 254, 254);
+    font-size: 1rem;
+    font-style: italic;
+    font-weight: 600;
+    padding-bottom: 30px;
+}
+
+input{
+    border-radius: 4px;
+}
+
+#btn{
+background-color: rgb(249, 253, 251);
+width: 100px;
+padding: 10px;
+border-radius: 3px;
+width: 100px;
+border-color:rgb(231, 76, 14);
+}
